@@ -689,38 +689,42 @@ z-index: 1;
 }
 
 .row .cinema:hover{
-  background-image: url('images/dp\ main.png') !important;
- background-size: cover !important;
+ background-color: #525CEB !important;
 
 }
+.row h2:hover{
+  color: #ccc !important;
+ 
+ }
+ .row hr:hover{
+  color: #ccc !important;
+ 
+ }
+ 
+
 
 .row .product:hover{
-  background-image: url('images/dp\ main.png') !important;
- background-size: cover !important;
+  background-color: #525CEB !important;
 
 }
 
 .row .food:hover{
-  background-image: url('images/dp\ main.png') !important;
- background-size: cover !important;
+  background-color: #525CEB !important;
 
 }
 
 .row .logo:hover{
-  background-image: url('images/dp\ main.png') !important;
- background-size: cover !important;
+  background-color: #525CEB !important;
 
 }
 
 .row .design:hover{
-  background-image: url('images/dp\ main.png') !important;
- background-size: cover !important;
+  background-color: #525CEB !important;
 
 }
 
 .row .development:hover{
-  background-image: url('images/dp\ main.png') !important;
- background-size: cover !important;
+  background-color: #525CEB !important;
 
 }
 
